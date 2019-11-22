@@ -12,7 +12,7 @@ This python class is used to plot common shapes (lines, circles, rectangles, etc
 
 Code that draws attractors including trigonometric attractors and the aizawa attractor.
 
-## Chaos chaos_game
+## Chaos Game
 
 The chaos game can be used to generate many different fractals.
 
