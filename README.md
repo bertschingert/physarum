@@ -16,6 +16,10 @@ Code that draws attractors including trigonometric attractors and the aizawa att
 
 The chaos game can be used to generate many different fractals.
 
+![Fractal snowflake](imgs/fractal-snowflake.png)
+
 ## Rosettes
 
-This code produces graphs of functions of the complex plane that create rosetts that look like flowers.
+This code produces graphs of functions of the complex plane that create rosettes that look like flowers.
+
+![Rosette](imgs/rosette.png)
